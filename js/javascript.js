@@ -19,7 +19,6 @@ $(document).ready(function () {
                 $("#slide").attr("src", nextSlideSource).animate({
                     height: "488px", width: "488px"
                 });
-                $("#caption").text(nextCaption).fadeIn(2000);
         });
 
 }
