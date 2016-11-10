@@ -133,3 +133,7 @@ main .row {
     background-color: lightyellow;
     color: midnightblue;
 }
+
+#slides {
+    display: none;
+}
